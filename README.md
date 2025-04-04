@@ -41,7 +41,7 @@ Esto generará un archivo `scopus_publications.xlsx` con los resultados.
 - OpenPyXL
 
 ## 📅 Licencia
-Este proyecto no cuenta con derechos de propiedad intelectual
+Revisar términos de derechos de propiedad intelectual
 
 ---
 📧 **Contacto**: www.linkedin.com/in/soleda-sandra-ruiz-lopez-a7b3a8124  
